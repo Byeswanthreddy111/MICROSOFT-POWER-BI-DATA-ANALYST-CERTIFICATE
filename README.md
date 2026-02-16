@@ -5,7 +5,7 @@
 I successfully completed the Microsoft Power BI Data Analyst Professional Certificate offered by Microsoft through Coursera.
 This program focused on transforming raw data into meaningful insights by building data models, performing analysis, and creating interactive dashboards for business decision-making.
 
-What I Learned
+WHAT I LEARNED
 
 Preparing and cleaning data using Microsoft Excel and Power Query
 
@@ -21,6 +21,6 @@ Data visualization best practices and storytelling
 
 Deploying and maintaining Power BI reports and assets
 
-Tools & Technologies
+TOOLS AND TECHNOLOGIES USED :
 
 Power BI • Power Query • DAX • Excel • Data Modeling • ETL • Data Visualization
